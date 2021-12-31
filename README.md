@@ -1,4 +1,4 @@
-# phd-meeting-analysis
+# Phd meeting data analysis
 This repository contains python codes used to analyse PhD meeting data (audio+video) to understand the group dynamics and explore types of potential features for understanding group exchange.
 
 # Data collection
